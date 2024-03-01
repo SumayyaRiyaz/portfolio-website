@@ -1,0 +1,50 @@
+/* styles.css */
+
+/* Apply background image to the body */
+body {
+    background-image: url('https://img.freepik.com/free-vector/web-development-concept-with-programmer-ar_107791-17049.jpg');
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Additional styling for other elements */
+header {
+    background-color: #071a45;
+    color: #fff;
+    padding: 10px 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fffafa;
+    text-decoration: none;
+}
+
+section {
+    padding: 30px 0;
+}
+
+section h2 {
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #fffbfb;
+    color: #0f0e0e;
+    padding: 10px 0;
+    text-align: center;
+}
